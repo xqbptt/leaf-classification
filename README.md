@@ -13,7 +13,7 @@ The output generated shows the percentage freshness in each leaf
 <br>
 
 ![alt text](https://github.com/xqbptt/leaf-classification/blob/master/Fresh%20Leaf%20Detection/output_labeled.jpg)
-
+<br>
 <b>LEVEL 2:</b> <br>
 An image of an ideal leaf was given along with a test image containing a bunch of other leaves of same specie.<br>
 For each leaf in the test image, the percentage similarity with the ideal image was to be predicted. <br>
@@ -29,6 +29,7 @@ Test Image:<br>
 <br>
 Output: <br>
 ![alt text](https://github.com/xqbptt/leaf-classification/blob/master/Similarity%20Detection/level2outmaple.jpg)
+<br>
 <br>
 <b>Neem leaf</b>
 <br>
